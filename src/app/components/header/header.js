@@ -16,7 +16,7 @@ export default function Header () {
                     <Link href="/">Home</Link>
                      </li>
                   <li href="#">Sản Phẩm</li>
-                  <a href="#">Liên Hệ </a>
+                  <a href="#">Lựa chọn</a>
                   <a href="#">Địa Chỉ</a>
               </div>
           </nav></>
